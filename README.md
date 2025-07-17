@@ -1,6 +1,6 @@
 ## 👋 Hey there! Welcome to my GitHub
 
-I'm a passionate full-stack web developer who loves building fast, modern, and user-friendly web applications. Whether it's the frontend magic or the backend logic — I enjoy turning ideas into scalable products.
+I'm a Full Stack Engineer | Coding Mentor who loves building fast, modern, and user-friendly web applications. Whether it's the frontend magic or the backend logic — I enjoy turning ideas into scalable products.
 
 ---
 
@@ -16,6 +16,8 @@ I’m currently available for freelance or contract work — let’s build somet
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 58 mins  █████████████████████████   99.69 %
+TypeScript   8 hrs 58 mins  █████████████████████████   99.69 %
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+nextjs   10 hrs 58 mins  █████████████████████████   99.69 %
+nodejs         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
