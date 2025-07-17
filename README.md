@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hey there! Welcome to my GitHub
 
-<!--
-**jumhuur/jumhuur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer who loves building fast, modern, and user-friendly web applications. Whether it's the frontend magic or the backend logic — I enjoy turning ideas into scalable products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Open for Freelance Work
+
+📬 Feel free to reach out: [jumhuur123@hotmail.com](mailto:jumhuur123@hotmail.com)  
+I’m currently available for freelance or contract work — let’s build something amazing together!
+
+---
+
+### 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   14 hrs 58 mins  █████████████████████████   99.69 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+
