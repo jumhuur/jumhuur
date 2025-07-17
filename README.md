@@ -17,7 +17,7 @@ I’m currently available for freelance or contract work — let’s build somet
 
 ```txt
 TypeScript   8 hrs 58 mins  █████████████████████████   99.69 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JSON         2 mins 23 sec          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 nextjs   10 hrs 58 mins  █████████████████████████   99.69 %
-nodejs         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+nodejs   1hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
