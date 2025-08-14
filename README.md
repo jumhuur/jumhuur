@@ -22,3 +22,8 @@ reactjs  20 mins 23 sec    ░░░░░░░░░░░░░░░░░�
 nextjs   4 hrs 58 mins  █████████████████████████   99.69 %
 nodejs   3 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 
+```
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumhuur&theme=algolia)
+
+
