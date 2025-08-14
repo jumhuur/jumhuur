@@ -25,8 +25,8 @@ nodejs   3 hrs 3 mins          ░░░░░░░░░░░░░░░░�
 ```
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumhuur&theme=algolia)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumhuur&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jumhuur&theme=algolia&utcOffset=8)
 
 
 
