@@ -24,8 +24,10 @@ nodejs   3 hrs 3 mins          ░░░░░░░░░░░░░░░░�
 
 ```
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumhuur&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumhuur&theme=algolia)
+ **📊 My Coding Languages & Tools Stats**
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jumhuur&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jumhuur&theme=transparent)
 
 
 
